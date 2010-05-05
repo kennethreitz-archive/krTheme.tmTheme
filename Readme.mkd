@@ -1,0 +1,26 @@
+krTheme for TextMate
+====================
+
+Most TextMate themes suck. This one rocks.
+
+[Download krTheme]()!
+
+![krTheme Screenshot]()
+
+
+	
+
+
+On the horizon
+--------------
+
+**Possible support for the following: **
+
+* Terminal.app + SIMBL
+* VIM
+* E Texteditor
+
+Legal Stuff
+-----------
+
+Copyright 2010 Kenneth Reitz. All Rights Reserved. 	
