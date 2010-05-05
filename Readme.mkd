@@ -3,9 +3,9 @@ krTheme for TextMate
 
 Most TextMate themes suck. This one rocks.
 
-[Download krTheme](http://github.com/kennethreitz/krTheme.tmTheme/raw/master/krTheme.tmTheme)!
+[Download krTheme](http://github.com/kennethreitz/krTheme.tmTheme/raw/master/krTheme.tmTheme) [(ZIP)[http://github.com/kennethreitz/krTheme.tmTheme/zipball/master]]!
 
-![krTheme Screenshot](http://github.com/kennethreitz/krTheme.tmTheme/blob/master/screenshot.png)
+![krTheme Screenshot](http://github.com/kennethreitz/krTheme.tmTheme/raw/master/screenshot.png)
 
 On the horizon
 --------------
