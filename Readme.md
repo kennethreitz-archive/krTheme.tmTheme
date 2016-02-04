@@ -5,7 +5,7 @@ Most TextMate themes suck. This one rocks.
 
 [Download krTheme](http://github.com/kennethreitz/krTheme.tmTheme/raw/master/krTheme.tmTheme) [[ZIP](http://github.com/kennethreitz/krTheme.tmTheme/zipball/master)]!
 
-![krTheme Screenshot](http://github.com/kennethreitz/krTheme.tmTheme/raw/master/screenshot.png)
+![krTheme Screenshot](https://github.com/kennethreitz/krTheme.tmTheme/blob/master/screenshot.png?raw=true)
 
 On the horizon
 --------------
